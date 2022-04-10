@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SintiHaze
 - 👀 I’m interested in ... Gorilla's
-- 🌱 I’m currently learning ..CSS
+- 🌱 I’m currently learning ..Python
 - 📫 How to reach me ... Owl mail
 
 <!---
