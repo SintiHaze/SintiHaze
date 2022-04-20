@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Jacinta.
 - 👀 I’m interested in ... Cyber Security
 - 🌱 I’m currently learning .. Python
-- 📫 How to reach me ... LinkedIn
