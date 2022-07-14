@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jacinta.
 - 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning .. Python
+- 🌱 I’m currently learning .. Bash
